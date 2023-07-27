@@ -30,7 +30,6 @@
 
 ## Связь
 - 📧 Вы можете связаться со мной по электронной почте: daniil.sleep.saw@gmail.com
-- 🔗 Посетите мою страницу-визитку в Notion : [Notion](https://www.linkedin.com/in/your-linkedin-profile](https://habitual-trick-525.notion.site/5aec2e50f2e3484cb63e699ae87e69a6?pvs=4))
 
 ## Благодарность
 
